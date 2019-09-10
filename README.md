@@ -1,2 +1,3 @@
-# Car sales web-scrape project
-Taking scraped car sales data and using it to make some interesting inferences. Ideally, I would like to be able to make predictions about car prices versus availablity, or popularity. Any other interesting relationships work too, though.
+# Car sales
+
+This project will center around using a scraper to pull data off of a popular car sales website aggregator and use that data to do statistical / informational analysis. Hopefully, I will be able to find some interesting relationships in the data, and use that to say something interesting with it.
